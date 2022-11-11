@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   }
   $('.hero.is-large').css({'background-image':'url(https://picsum.photos/id/25/1920/1080)',
-                           'background':'linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("./image/Kolkata'+Math.floor(1+Math.random() * 2)+'.png") no-repeat',
+                           'background':'linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("./image/Kolkata'+Math.floor(1+Math.random() * 4)+'.png") no-repeat',
                            'background-attachment':'fixed',
                            'background-size':'cover' });
   
