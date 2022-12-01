@@ -577,7 +577,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgb(149 119 107 / 57%), rgb(84 79 79 / 38%)), url("../image/RS-3.jpg");
+  background-image: linear-gradient(rgb(149 119 107 / 57%), rgb(84 79 79 / 38%)), url("../image/RS3.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -602,7 +602,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgb(149 119 107 / 57%), rgb(84 79 79 / 38%)), url("../image/RS-4.jpg");
+  background-image: linear-gradient(rgb(149 119 107 / 57%), rgb(84 79 79 / 38%)), url("../image/RS4.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
